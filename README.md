@@ -8,12 +8,6 @@ This Discord selfbot allows you to send Litecoin via discord. It integrates with
 - **Check Balance** : View the current balance of your Litecoin address.
 - **Receive Address** : Get your Litecoin address for receiving payments.
 
-## Commands
-
-- **send <address> <amount>** : Send a specified amount of Litecoin to the provided address.
-- **balance** : Check the current balance of your Litecoin address.
-- **receive** : Get your Litecoin address for receiving payments.
-
 ## Setup
 
 1. Clone or download the repository.
