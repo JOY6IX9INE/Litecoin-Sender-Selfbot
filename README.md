@@ -16,10 +16,10 @@ This Discord selfbot allows you to send Litecoin via discord. It integrates with
 
 ## Setup
 
-1. Clone the repository.
+1. Clone or download the repository.
 2. Install dependencies: `npm install `
-3. Create a `config.json` file with your Discord token, user ID, Litecoin address, Litecoin private key, and Tatum API key.
-4. Run the selfbot: `node index.js`
+3. Setup `config.json` with your token, user id, ltc address, ltc private key, and Tatum api key.
+4. Run the selfbot : `node index.js`
 
 ## Usage
 
