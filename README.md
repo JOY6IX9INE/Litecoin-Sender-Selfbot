@@ -29,10 +29,7 @@ This Discord selfbot allows you to send Litecoin via discord. It integrates with
 
 **Note:** Make sure to keep your Discord token and API keys secure. Do not share them publicly.
 
-## Disclaimer
+# Disclaimer
+This tool is created for educational purposes and ethical use only. Any misuse of this tool for malicious purposes is not condoned. The developers of this tool are not responsible for any illegal or unethical activities carried out using this tool.
 
-This selfbot is for educational purposes only. Use it responsibly and at your own risk.
-
-## License
-
-[MIT License](LICENSE)
+[![Star History Chart](https://api.star-history.com/svg?repos=JOY6IX9INE/Litecoin-Sender-Selfbot&type=Date)](https://star-history.t9t.io/#JOY6IX9INE/Litecoin-Sender-Selfbot&Date)
