@@ -21,7 +21,7 @@ This Discord selfbot allows you to send Litecoin via discord. It integrates with
 - To check balance : `.balance`
 - To get receive address : `.receive`
 
-**Note:** Make sure to keep your Discord token and API keys secure. Do not share them publicly.
+**Note :** Make sure to keep your Discord token and API keys secure. Do not share them publicly.
 
 # Disclaimer
 This tool is created for educational purposes and ethical use only. Any misuse of this tool for malicious purposes is not condoned. The developers of this tool are not responsible for any illegal or unethical activities carried out using this tool.
