@@ -1,0 +1,15 @@
+{
+  "name": "litecoin-sender-selfbot",
+  "version": "1.0",
+  "description": "A Discord selfbot for sending Litecoin via Discord.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Joy",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js-selfbot-v13": "^13.1.0",
+    "axios": "^0.24.0"
+  }
+}
